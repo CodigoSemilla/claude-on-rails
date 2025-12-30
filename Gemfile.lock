@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     claude-on-rails (0.2.0)
-      claude_swarm (~> 0.1)
+      claude_swarm
       rails (>= 6.0)
 
 GEM
@@ -286,7 +286,7 @@ GEM
     unicode-display_width (3.1.4)
       unicode-emoji (~> 4.0, >= 4.0.4)
     unicode-emoji (4.0.4)
-    uri (1.0.3)
+    uri (1.0.4)
     useragent (0.16.11)
     websocket-driver (0.8.0)
       base64
